@@ -1,4 +1,4 @@
-package com.blogspot.nikcode.sort.insertion;
+package com.blogspot.nikcode.sort;
 
 public class InsertionSort {
 

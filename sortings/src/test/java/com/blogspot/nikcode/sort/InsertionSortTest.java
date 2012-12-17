@@ -1,5 +1,7 @@
-package com.blogspot.nikcode.sort.insertion;
+package com.blogspot.nikcode.sort;
 
+import com.blogspot.nikcode.sort.InsertionSort;
+import com.blogspot.nikcode.sort.MergeSort;
 import org.junit.Assert;
 import org.junit.Test;
 
